@@ -1,3 +1,0 @@
-For testing Wontology smart contract, you need to compile, deploy and invoke the methods within Wontology smart contract.
-1. You can compile, deploy the contract and invoke the methods through [Ontology-Smart-Contract-Testing-Framework](https://github.com/tonyclarking/Ontology-Smart-Contract-Testing-Framework) or [SmartX](https://smartx.ont.io/#/).
-2. You can also compile the contract through neo-boa based on the reference [here](https://github.com/ONT-Avocados/python-template).
